@@ -1,0 +1,6 @@
+{
+  "name": "Distinction — Academic Study Kit & Exam Studio",
+  "description": "Transform lecture notes, textbooks, and study documents into structured concept summaries, practice questions, JSON flashcards, and 100-mark model exam papers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
